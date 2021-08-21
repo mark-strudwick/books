@@ -10,5 +10,5 @@ A list of books that I have read or am reading
 ## IT
 - The Phoenix Project (Gene Kim, Kevin Behr and George Spafford)
 
-## Machine Learning & Artifical Intelligance
+## Machine Learning & Artifical Intelligence
 - Deep Thinking (Garry Kasparov)
